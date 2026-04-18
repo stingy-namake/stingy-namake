@@ -3,26 +3,24 @@
 </div>
 
 <div align="center">
-
-*"Inherited will, the destiny of the age, and the dreams of the people. These are things that will not stop. As long as people continue to pursue the meaning of freedom, these things will never cease to be!"*  
-— **Gol D. Roger** (One Piece)
-
+  <i>"Inherited will, destiny, and dreams — these are things that will never stop."</i><br/>
+  — Gol D. Roger
 </div>
 
 ---
 
-Currently, I'm a **developer** and a soon-to-be **Information Systems major**. I use Arch btw.
+## 👋 Hello, I'm a Developer & Future Information Systems Major
 
-### ⚡ About Me
-- 🔭 I'm currently studying **Machine Learning** and **Data Analysis** 
-- 👯 Seeking an internship or part-time opportunity in software development
-- 🧮 Deeply interested in **Mathematics** and **Physics** — because understanding the universe helps me understand the code
-- 💬 Ask me about: AI, Anime, Linux (especially Arch), Math, Physics, or why I have 100+ tabs open in my browser
-- 📫 How to reach me: [LinkedIn](#) | [Email](mailto:email.escolar174@gmail.com)
+I'm currently studying **Machine Learning** and **Data Analysis**, while deepening my understanding of **Mathematics** and **Physics**. I believe that solid fundamentals lead to better software — and I run Arch Linux to stay close to the system.
 
-### 📊 Tech
+### 🔍 What I'm Looking For
+- Internship or part‑time role in **Software Development** (backend, data, or full‑stack)
+- Opportunities to apply **Python, C, PHP, Laravel, React, Kotlin, or R** in real‑world projects
+
+### 🛠️ Tech Stack
+
 <div align="center">
-
+  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -39,24 +37,23 @@ Currently, I'm a **developer** and a soon-to-be **Information Systems major**. I
 
 </div>
 
-### 🐉 Random Facts
-- I use Arch btw 
-- My code works perfectly... until someone watches me run it
-- Currently saving primogems 
-- Paimon is not emergency food 
-- I believe math is the language of the universe and code is my dialect
+### 📌 About Me
+
+- 🔭 **Currently focused on**: Machine Learning & Data Analysis pipelines  
+- 📚 **Academic background**: Information Systems (in progress)  
+- 🧮 **Deep interests**: Mathematics and Physics — I see them as the foundation of robust code  
+- 💬 **Ask me about**: AI, Linux (Arch, of course), or how math simplifies complex problems  
+- 📫 **Reach me**: [LinkedIn](#) | [Email](mailto:email.escolar174@gmail.com)
+
+### 🌱 What I'm Learning Right Now
+
+- Advanced Python for data science  
+- Model evaluation & feature engineering  
+- Containerizing applications with Docker
 
 ---
 
-### 📜 Quotes (WIP: I want to automate this)
-
-> *"A lesson without pain is meaningless. That's because you cannot gain something without sacrificing something else in return. But once you endure that pain and learn from it, you will become stronger, wiser, and more compassionate."*  
-> — **Edward Elric** (Fullmetal Alchemist: Brotherhood)
-
-> *"If you don't take risks, you can't create a future."*  
-> — **Monkey D. Luffy** (One Piece)
-
----
-
-*"Every journey has its final day. Don't rush."*  
-— **Zhongli** (Genshin Impact)
+<div align="center">
+  <i>"A lesson without pain is meaningless. You cannot gain something without sacrificing something else. But once you endure and learn, you become stronger, wiser, and more compassionate."</i><br/>
+  — Edward Elric (Fullmetal Alchemist)
+</div>
