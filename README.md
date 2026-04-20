@@ -1,6 +1,4 @@
-<div align="center">
-  <img width="auto" height="100" alt="The One Piece is real!" src="https://github.com/user-attachments/assets/3ddce9c6-2103-4d5e-8e90-fb715cc6cdb6" />
-</div>
+# Developer & Information Systems Student
 
 <div align="center">
   <i>"Inherited will, destiny, and dreams — these are things that will never stop."</i><br/>
@@ -9,18 +7,25 @@
 
 ---
 
-## 👋 Hello, I'm a Developer & Future Information Systems Major
+## About Me
 
-I'm currently studying **Machine Learning** and **Data Analysis**, while deepening my understanding of **Mathematics** and **Physics**. I believe that solid fundamentals lead to better software — and I run Arch Linux to stay close to the system.
+- **Current focus**: Machine Learning & Data Analysis pipelines  
+- **Academic background**: Information Systems (in progress)  
+- **Core interests**: Mathematics and Physics as the foundation of robust code  
+- **Ask me about**: AI, Linux (Arch), or how math simplifies complex problems  
+- **Contact**: [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:email.escolar174@gmail.com)
 
-### 🔍 What I'm Looking For
-- Internship or part‑time role in **Software Development** (backend, data, or full‑stack)
-- Opportunities to apply **Python, C, PHP, Laravel, React, Kotlin, or R** in real‑world projects
+---
 
-### 🛠️ Tech Stack
+## What I'm Looking For
+
+- Internship or part‑time role in **Software Development** (backend, data, or full‑stack)  
+- Opportunities in real‑world projects
+
+## Tech Stack
 
 <div align="center">
-  
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -36,20 +41,6 @@ I'm currently studying **Machine Learning** and **Data Analysis**, while deepeni
 ![Arch](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 
 </div>
-
-### 📌 About Me
-
-- 🔭 **Currently focused on**: Machine Learning & Data Analysis pipelines  
-- 📚 **Academic background**: Information Systems (in progress)  
-- 🧮 **Deep interests**: Mathematics and Physics — I see them as the foundation of robust code  
-- 💬 **Ask me about**: AI, Linux (Arch, of course), or how math simplifies complex problems  
-- 📫 **Reach me**: [LinkedIn](#) | [Email](mailto:email.escolar174@gmail.com)
-
-### 🌱 What I'm Learning Right Now
-
-- Advanced Python for data science  
-- Model evaluation & feature engineering  
-- Containerizing applications with Docker
 
 ---
 
