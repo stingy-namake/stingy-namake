@@ -3,8 +3,6 @@
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Developer+%7C+Info+Systems+Student;Building+Tools+that+I+find+useful;Math+%E2%86%92+Code+%E2%86%92+Reality)
-
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="40" />
   
 </div>
 
